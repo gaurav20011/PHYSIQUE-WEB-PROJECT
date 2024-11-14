@@ -1,3 +1,5 @@
+Fitness Mantra could serve as an online platform for managing fitness-related activities, like workout tracking, diet planning, progress monitoring, and more. Users might be able to sign up, log workouts, set goals, and track their progress over time. It might also allow trainers to manage clients’ workout plans and track their progress.
+
 
 
 
